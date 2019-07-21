@@ -1,0 +1,5 @@
+The task given was to install a program using a package management tool. Since I am operating on a Windows machine, I first had to install such a tool. I went with the lecturers recommendation and chose Chocolatey. 
+
+Once I had Chocolatey installed, the process of installing a program with it was most trivial. The program I chose to install next was 'vim'. To do so, I typed 'choco install vim' and confirmed that I want the script 'chocolateyInstall.ps1' to be run afterwards in order to install vim. Then Chocolatey did all the remaining work and installed the program. After that, vim was fully operational.
+
+The attached screenshot documents the process of installing vim as described.

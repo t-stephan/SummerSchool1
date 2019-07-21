@@ -1,0 +1,5 @@
+a) I chose nano.
+b) Ctrl-X to exit, triggering a save prompt, if there are unsaved changes to your file, or first Ctrl-O to save then Ctrl-X to exit
+c)	i) 	Ctrl-U to paste a line
+	ii) Ctrl-K to cut a line and immediately after that Ctrl-U to put it back (it stays in the cutbuffer, so effectively, this copies a line) or directly Esc-6 to copy a line to the cutbuffer
+	iii) Ctrl-W to search for a string or a regular expression

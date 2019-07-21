@@ -1,0 +1,5 @@
+a) /srv/home/tstephan
+b) bash
+c) --author: with -l, print the author of each file; -g: like -l, but do not list owner
+d) 1040
+e) 8.2.0
